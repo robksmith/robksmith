@@ -1,4 +1,12 @@
-### Hi there 👋
+<h2 align="center">Hi 👋 - I'm Rob Smith</h2>
+<h3 align="center">Android Developer</h3>
+
+- 🔭 I’m currently working on a [3D Printer App](https://www.radicalcompany.com/case-studies/study/objectscity1)
+- 📄 About me: https://www.linkedin.com/in/robksmith/
+- 🌱 I’m currently learning Jetpack Compose
+- 📫 How to reach me: robksmith@gmail.com
+
+
 
 <!--
 **robksmith/robksmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
